@@ -1,0 +1,4 @@
+# ignore .env files for security reasons
+.env
+# ignore node_modules so we don't upload a ton of files
+/node_modules
